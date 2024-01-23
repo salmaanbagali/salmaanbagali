@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @salmaanbagali
+- 👀 I’m interested in building websites.
+- 🌱 I’m currently learning web development.
